@@ -40,3 +40,5 @@ build/
 
 ### Smart Tomcat ###
 .smarttomcat/
+
+   .idea/
